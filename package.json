@@ -41,8 +41,5 @@
   },
   "dependencies": {
     "immutable": "^3.7.6"
-  },
-  "peerDependencies": {
-    "redux-storage": "^3.0.0"
   }
 }
