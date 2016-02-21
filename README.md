@@ -1,6 +1,6 @@
 # [redux-storage-decorator-immutablejs][]
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-decorator-immutablejs.svg)](https://travis-ci.org/michaelcontento/redux-storage-decorator-immutablejs)
+[![build](https://travis-ci.org/michaelcontento/redux-storage-decorator-immutablejs.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-decorator-immutablejs)
 [![dependencies](https://david-dm.org/michaelcontento/redux-storage-decorator-immutablejs.svg)](https://david-dm.org/michaelcontento/redux-storage-decorator-immutablejs)
 [![devDependencies](https://david-dm.org/michaelcontento/redux-storage-decorator-immutablejs/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-decorator-immutablejs#info=devDependencies)
 
