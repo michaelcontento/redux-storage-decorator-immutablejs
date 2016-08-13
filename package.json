@@ -3,7 +3,6 @@
   "version": "1.0.1",
   "description": "Decorator for redux-storage to convert your state tree to ImmutableJS",
   "main": "build/index.js",
-  "jsnext:main": "src/index.js",
   "scripts": {
     "test": "make lint test build"
   },
